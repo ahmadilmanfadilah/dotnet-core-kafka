@@ -3,7 +3,7 @@ My notes about [Confluent's .NET Client](https://github.com/confluentinc/conflue
 ### Content
 1. default [Producer](Producer)
 from [example](https://github.com/confluentinc/confluent-kafka-dotnet/blob/master/examples/Producer/Program.cs).
-2. default [Conumer](Conumer)
+2. default [Consumer](Consumer)
 from [example](https://github.com/confluentinc/confluent-kafka-dotnet/blob/master/examples/Producer/Program.cs).
 
 ## License
