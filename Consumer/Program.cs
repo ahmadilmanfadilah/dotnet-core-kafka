@@ -110,8 +110,8 @@ namespace Consumer
                                 catch (KafkaException e)
                                 {
                                     Console.WriteLine($"Commit error: {e.Error.Reason}");
+
                                 }
-                           // }
                         }
                         catch (ConsumeException e)
                         {
